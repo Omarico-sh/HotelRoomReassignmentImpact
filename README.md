@@ -11,5 +11,5 @@ This study investigates the effect of assigning a different room type for the cu
 - **Run.py**: Python script designed to execute all the experimental procedures in a streamlined format, suitable for reproducibility and integration.
 
 - **hotel_bookings.csv**: Dataset containing hotel booking data used for our study, including information on room types, booking status, and customer demographics.
-- 
+  
 - **dataset_ready.csv**: Hotel bookings' dataset after applying EDA and ready for analysis.
